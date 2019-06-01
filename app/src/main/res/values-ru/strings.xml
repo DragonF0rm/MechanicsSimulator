@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Mechanics simulator</string>
+    <string name="Menu_of_objects">Добавить объект</string>
+    <string name="Hide">Свернуть</string>
+    <string name="object_0">Тело</string>
+    <string name="object_1">Траектория</string>
+    <string name="object_2">Гравитация</string>
+    <string name="object_3">Поверхность</string>
+    <string name="object_4">Поверхность</string>
+    <string name="body_creation">Создание нового тела:</string>
+    <string name="name">Имя:</string>
+    <string name="OK_button">Принять</string>
+    <string name="Cancel_button">Отмена</string>
+    <string name="Mass">Масса:</string>
+
+    <string name="Back_button">Назад</string>
+    <string name="Settings">Настройки</string>
+    <string name="New_Exp">Новый эксперимент</string>
+    <string name="Save">Сохранить</string>
+    <string name="Load">Загрузить</string>
+    <string name="Guide">Как это работает</string>
+    <string name="Logo_string1">Mechanics</string>
+    <string name="Logo_string2">simulator</string>
+    <string name="title_newExpActivity">Новый эксперимент</string>
+    <string name="Name_of_experiment">Название эксперимента</string>
+    <string name="Time_of_experiment">Время эксперимента</string>
+    <string name="Delete">Удалить</string>
+
+    <string name="error1">Введите время эксперимента</string>
+    <string name="error2">Введите название эксперимента</string>
+
+    <string name="SaveDialog">Вы уверены, что хотите сохранить этот эксперимент?</string>
+    <string name="LoadDialog">Сохранить этот эксперимент перед загрузкой следующего?</string>
+    <string name="ExceptionDialog">Приложение было остановлено из-за ошибки. Эксперимент был сохаранён.</string>
+    <string name="saveToast">Сохранено</string>
+    <string name="loadToast">Загружено</string>
+    <string name="Trajectory">Этот объект будет доступен позже</string>
+    <string name="GuideToast">Эта функция будет доступна позже</string>
+    <string name="GravitationToast">В эксперименте может быть только один объект этого типа</string>
+    <string name="SettingsCheckBox">Сохранять эксперименты при выходе из редактора</string>
+    <string name="SettingsToast">Настройки изменены</string>
+    <string name="RoundBodyDialogToast">Заполните все поля</string>
+
+</resources>

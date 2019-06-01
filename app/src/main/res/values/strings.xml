@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Mechanics simulator</string>
+    <string name="Menu_of_objects">Add object</string>
+    <string name="Hide">Hide</string>
+    <string name="object_0">Body</string>
+    <string name="object_1">Trajectory</string>
+    <string name="object_2">Gravitation</string>
+    <string name="object_3">Surface</string>
+    <string name="object_4">Surface</string>
+    <string name="body_creation">Creation of the new body:</string>
+    <string name="name">Name:</string>
+    <string name="OK_button">OK</string>
+    <string name="Cancel_button">Cancel</string>
+    <string name="Mass">Mass:</string>
+    <string name="digit_keyboard_font">fonts/EdenMillsInkItalic.ttf</string>
+
+    <string name="Back_button">Back</string>
+    <string name="Settings">Settings</string>
+    <string name="Save">Save</string>
+    <string name="Load">Load</string>
+    <string name="Guide">How does it work</string>
+    <string name="Logo_string1">Mechanics</string>
+    <string name="Logo_string2">simulator</string>
+    <string name="title_newExpActivity">New experiment</string>
+    <string name="Name_of_experiment">Set name of the new experiment</string>
+    <string name="Time_of_experiment">Set time of the new experiment</string>
+    <string name="Delete">Delete</string>
+
+    <string name="error1">Choose time of the experiment</string>
+    <string name="error2">Choose name of the experiment</string>
+
+    <string name="SaveDialog">Are you sure, you want to save this experiment?</string>
+    <string name="LoadDialog">Do you want to save this experiment before loading another one?</string>
+    <string name="ExceptionDialog">Mechanics Simulator had been stopped with exception. Your Experiment had been saved.</string>
+    <string name="saveToast">Saved</string>
+    <string name="loadToast">Loaded</string>
+    <string name="Trajectory">This object will be able soon</string>
+    <string name="GuideToast">This function will be able soon</string>
+    <string name="GravitationToast">You can have only one object of this type</string>
+    <string name="SettingsCheckBox">Save experiments, when you leave a redactor</string>
+    <string name="SettingsToast">Settings were changed</string>
+    <string name="RoundBodyDialogToast">Fill all the fields</string>
+</resources>
